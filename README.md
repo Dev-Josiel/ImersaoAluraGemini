@@ -1,6 +1,7 @@
 # 🚀 EduFlow AI: Seu Co-piloto de Aprendizagem Inteligente 🤖
 
-![Capa do Projeto - Seção para adicionar Screenshot/GIF do Colab]
+![image](https://github.com/user-attachments/assets/c4696972-1b01-435a-be51-7e66b17ff231)
+
 <!-- Adicione aqui um GIF curto ou screenshot da interação no Colab -->
 
 ## O Problema: A Aprendizagem Passiva em Cursos Online
